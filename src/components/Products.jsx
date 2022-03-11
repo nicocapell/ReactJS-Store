@@ -32,7 +32,7 @@ function Products() {
         <>
             <div class="container align-items-center filter marginProducts">
                 <select value={productFilter} onChange={onProductFilterChange}>
-                    <option value="All">Select category</option>
+                    <option value="All">Seleccionar Categoría</option>
                     <option value="Remeras">Remeras</option>
                     <option value="Buzos">Buzos</option>
                     <option value="Camisas">Camisas</option>

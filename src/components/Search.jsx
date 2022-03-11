@@ -24,10 +24,10 @@ function Search() {
 
     return (
         <>
-            <h1 className='marginSearch'>Search</h1>
+            <h1 className='marginSearch'>Búsqueda</h1>
             <hr />
             <div class="container align-items-center filter">
-                <input type="text" value={searchText} placeholder="Enter search text" onChange={(e) => setSearchText(e.target.value)} />
+                <input type="text" value={searchText} placeholder="Ingrese su búsqueda" onChange={(e) => setSearchText(e.target.value)} />
             </div>
             {
                 products.length > 0 ?

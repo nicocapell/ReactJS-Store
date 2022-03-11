@@ -39,10 +39,10 @@ function ProductSummary() {
                                         stripeKey='pk_test_51JSwc7SJugH4e1kT9UvwxONc2fMLnHcpjrQyroXa8163q2aeOLmvEEroRRkZeWnmzju6jfez35evdOSTKTrErdtP00McoW45sP'
                                         currency='USD'
                                     >
-                                        <button className="btn btn-primary mt-3">Comprar</button>
+                                        <button className="btnCarrito ">Comprar</button>
                                     </StripeCheckout>
                                     <span>
-                                        <button className="btn btn-primary mt-3" onClick={emptyCart}>Vaciar Carrito</button>
+                                        <button className="btnCarrito" onClick={emptyCart}>Vaciar Carrito</button>
                                     </span>
                                 </div>
                             </div>
