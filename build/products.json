@@ -1,0 +1,207 @@
+[
+    {
+        "id": 1,
+        "name": "Remera Idols",
+        "category": "Remeras",
+        "description": "",
+        "price": 500,
+        "photo": "p1.jpg",
+        "featured": true,
+        "sizes": [
+            {
+                "sizeid": "1",
+                "size": "S"
+            },
+            {
+                "sizeid": "2",
+                "size": "M"
+            },
+            {
+                "sizeid": "3",
+                "size": "L"
+            }
+        ]
+    },
+    {
+        "id": 2,
+        "name": "Buzo Nike",
+        "category": "Buzos",
+        "description": "Buzo Nike",
+        "price": 550,
+        "photo": "p2.jpg",
+        "featured": false,
+        "sizes": [
+            {
+                "sizeid": "4",
+                "size": "M"
+            }
+         
+        ]
+    },
+    {
+        "id": 3,
+        "name": "Buzo Verde",
+        "category": "Buzos",
+        "description": "",
+        "price": 600,
+        "photo": "p3.jpg",
+        "featured": false,
+        "sizes": [
+            {
+                "sizeid": "5",
+                "size": "M"
+            },
+            {
+                "sizeid": "6",
+                "size": "L"
+            }
+        ]
+    },
+    {
+        "id": 4,
+        "name": "Pantalon Beige",
+        "category": "Pantalon",
+        "description": " ",
+        "price": 650,
+        "photo": "p4.jpg",
+        "featured": false,
+        "sizes": [
+            {
+                "sizeid": "7",
+                "size": 35
+            },
+            {
+                "sizeid": "8",
+                "size": 36
+            }
+        ]
+    },
+    {
+        "id": 5,
+        "name": "Camisa Jean",
+        "category": "Camisas",
+        "description": "",
+        "price": 700,
+        "photo": "p5.jpg",
+        "featured": false,
+        "sizes": [
+            {
+                "sizeid": "9",
+                "size": "S"
+            },
+            {
+                "sizeid": "10",
+                "size": "M"
+            }
+        ]
+    },
+    {
+        "id": 6,
+        "name": "Pantalon de vestir",
+        "category": "Pantalones",
+        "description": "Unisex Ninja Pro Full Metal Body SpO2 Smartwatch 11BSWAAY#2 - Red",
+        "price": 1700,
+        "photo": "p6.jpg",
+        "featured": true,
+        "sizes": [
+            {
+                "sizeid": "11",
+                "size": "36"
+            }
+        ]
+    },
+    {
+        "id": 7,
+        "name": "Pantalon 2",
+        "category": "Pantalones",
+        "description": "",
+        "price": 2700,
+        "photo": "p7.jpg",
+        "featured": false,
+        "sizes": [
+            {
+                "sizeid": "12",
+                "size": "38"
+            }
+        ]
+    },
+    {
+        "id": 8,
+        "name": "Combo Casual",
+        "category": "Remeras", 
+        "description": "",
+        "price": 1750,
+        "photo": "p8.jpg",
+        "featured": false,
+        "sizes": [
+            {
+                "sizeid": "13",
+                "size": "M"
+            }
+        ]
+    },
+    {
+        "id": 9,
+        "name": "Buzo Bear",
+        "category": "Buzos",
+        "description": "",
+        "price": 3700,
+        "photo": "p9.jpg",
+        "featured": false,
+        "sizes": [
+            {
+                "sizeid": "14",
+                "size": "L"
+            }
+        ]
+    },
+    {
+        "id": 10,
+        "name": "Remera Normal Day",
+        "category": "Remeras",
+        "description": "",
+        "price": 27000,
+        "photo": "p10.jpg",
+        "featured": true,
+        "sizes": [
+            {
+                "sizeid": "15",
+                "size": "S"
+            }
+        ]
+    },
+    {
+        "id": 11,
+        "name": "Buzo Cuadros",
+        "category": "Buzos",
+        "description": "",
+        "price": 700,
+        "photo": "p11.jpg",
+        "featured": true,
+        "sizes": [
+            {
+                "sizeid": "16",
+                "size": "S"
+            }
+        ]
+    },
+    {
+        "id": 12,
+        "name": "Camisa Cuadros",
+        "category": "Camisas",
+        "description": "",
+        "price": 800,
+        "photo": "p12.jpg",
+        "featured": false,
+        "sizes": [
+            {
+                "sizeid": "17",
+                "size": "S"
+            },
+            {
+                "sizeid": "18",
+                "size": "M"
+            }
+        ]
+    }
+]

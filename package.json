@@ -1,7 +1,8 @@
 {
-  "name": "ShopOn",
+  "name": "MelozzyFeria",
   "version": "0.1.0",
   "private": true,
+  "homepage": "https://nicocapell.github.io/ReactJS-Store",
   "dependencies": {
     "bootstrap": "^5.1.3",
     "history": "^5.2.0",
@@ -16,6 +17,8 @@
     "reactstrap": "^9.0.1"
   },
   "scripts": {
+    "predeploy":"npm run build",
+    "deploy":"gh pages -d build",
     "start": "react-scripts start",
     "build": "react-scripts build",
     "test": "react-scripts test --env=jsdom",
